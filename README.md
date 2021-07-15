@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Karim K. Kanji</b>
 <br>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/18611345?v=4" width="180" style="border-radius:100%"/>
+<img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/18611345?v=4">
 <p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Karim K. Kanji, Apps Developer (Web Apps and Android Apps) from <img
